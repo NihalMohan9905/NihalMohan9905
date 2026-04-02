@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Nihal Mohan Kasturi 👋
 
-<!--
-**NihalMohan9905/NihalMohan9905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year CSE Student  
+💻 Frontend Developer Intern @ Analogics Tech Pvt Ltd  
+🚀 Passionate about building real-world & AI-based applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- 💻 HTML, CSS, JavaScript  
+- ☕ JSP (Java Server Pages)  
+- 🗄️ MySQL  
+- ⚛️ React (Internship Experience)  
+- 🤖 AI & Prompt Engineering  
+
+---
+
+## 🚀 Projects
+
+### 🔹 Legal Assistant Web App
+- Helps users find nearby professionals  
+- Built using JSP, HTML, CSS, JS, MySQL  
+🔗 https://github.com/NihalMohan9905/justice-guide-legal-assistant  
+
+---
+
+### 🔹 LawMate AI Assistant
+- AI-powered legal assistant  
+- Speech-to-text & document analysis  
+🔗 https://github.com/NihalMohan9905/LawMate-AI-Based-Desktop-Legal-Assistant-System  
+
+---
+
+### 🔹 Analogics Internship Project
+- Built responsive UI using React & JS  
+- Improved user experience  
+🔗 https://github.com/NihalMohan9905/analogics-tech-intern-project  
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=NihalMohan9905&show_icons=true&theme=dark)
+
+---
+
+## 🌐 Connect with Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/nihalkasturi  
+- 📸 Instagram: https://www.instagram.com/nihal_mohan_kasturi  
+
+---
+
+⭐ Always learning, building, and improving!
