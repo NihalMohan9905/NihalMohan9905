@@ -38,11 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=NihalMohan9905&show_icons=true&theme=dark)
-
----
-
 ## 🌐 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/nihalkasturi  
 - 📸 Instagram: https://www.instagram.com/nihal_mohan_kasturi  
