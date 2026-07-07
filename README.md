@@ -31,10 +31,17 @@
 
 ---
 
-### 🔹 Analogics Internship Project
+### 🔹 Analogics website
 - Built responsive UI using React & JS  
 - Improved user experience  
-🔗 https://github.com/NihalMohan9905/analogics-tech-intern-project  
+🔗 https://github.com/NihalMohan9905/analogics website
+
+---
+
+###  🔹 C2P website
+- Developed a responsive company website using React & JavaScript
+- Designed a modern, user-friendly interface with reusable components
+🔗 https://github.com/NihalMohan9905/C2P-website
 
 ---
 
