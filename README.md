@@ -35,7 +35,7 @@ Analogics Tech Pvt Ltd
 ### 🔹 Analogics website
 - Built responsive UI using React & JS  
 - Improved user experience  
-🔗 https://github.com/NihalMohan9905/analogics website
+🔗 https://github.com/NihalMohan9905/analogics-website
 
 ---
 
