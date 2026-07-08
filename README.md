@@ -42,6 +42,7 @@ Analogics Tech Pvt Ltd
 ###  🔹 C2P website
 - Developed a responsive company website using React & JavaScript
 - Designed a modern, user-friendly interface with reusable components
+
 🔗 https://github.com/NihalMohan9905/C2P-website
 
 ---
