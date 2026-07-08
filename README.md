@@ -8,38 +8,39 @@
 ---
 
 ## 🔧 Tech Stack
-Frontend
+
+💻 Frontend
 • HTML5
 • CSS3
 
-Database
+🗄️ Database
 • MySQL
 
-AI
-• Prompt Engineering 
+🤖 AI
+• Prompt Engineering
 
 ## Professional Experience
 
 ### Web Developer
 Analogics Tech Pvt Ltd
 
-• Develop responsive company websites using React.js and JavaScript.
-• Build reusable UI components.
-• Improve website performance and user experience.
-• Collaborate with the development team on client projects.
+• Developed responsive company websites using React.js and JavaScript.
+• Built reusable UI components to improve maintainability.
+• Enhanced website performance and user experience.
+• Collaborated with the development team on client projects.
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 Analogics website
+### 🔹 Analogics Website
 - Built responsive UI using React & JS  
 - Improved user experience  
 🔗 https://github.com/NihalMohan9905/analogics-website
 
 ---
 
-###  🔹 C2P website
+###  🔹 C2P Website
 - Developed a responsive company website using React & JavaScript
 - Designed a modern, user-friendly interface with reusable components
  🔗 https://github.com/NihalMohan9905/C2P-website
