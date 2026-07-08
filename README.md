@@ -1,35 +1,36 @@
 # Hi, I'm Nihal Mohan Kasturi 👋
 
-🎓 Final-year CSE Student  
-💻 Frontend Developer Intern @ Analogics Tech Pvt Ltd  
-🚀 Passionate about building real-world & AI-based applications  
+💼 Web Developer @ Analogics Tech Pvt Ltd
+🎓 B.Tech Graduate in Computer Science & Engineering
+💻 Passionate about Web Development, AI Applications
+🚀 Building responsive web applications and real-world software solutions 
 
 ---
 
 ## 🔧 Tech Stack
-- 💻 HTML, CSS, JavaScript  
-- ☕ JSP (Java Server Pages)  
-- 🗄️ MySQL  
-- ⚛️ React (Internship Experience)  
-- 🤖 AI & Prompt Engineering  
+Frontend
+• HTML5
+• CSS3
+
+Database
+• MySQL
+
+AI
+• Prompt Engineering 
+
+## Professional Experience
+
+### Web Developer
+Analogics Tech Pvt Ltd
+
+• Develop responsive company websites using React.js and JavaScript.
+• Build reusable UI components.
+• Improve website performance and user experience.
+• Collaborate with the development team on client projects.
 
 ---
 
 ## 🚀 Projects
-
-### 🔹 Legal Assistant Web App
-- Helps users find nearby professionals  
-- Built using JSP, HTML, CSS, JS, MySQL  
-🔗 https://github.com/NihalMohan9905/justice-guide-legal-assistant  
-
----
-
-### 🔹 LawMate AI Assistant
-- AI-powered legal assistant  
-- Speech-to-text & document analysis  
-🔗 https://github.com/NihalMohan9905/LawMate-AI-Based-Desktop-Legal-Assistant-System  
-
----
 
 ### 🔹 Analogics website
 - Built responsive UI using React & JS  
@@ -44,6 +45,19 @@
 🔗 https://github.com/NihalMohan9905/C2P-website
 
 ---
+
+### 🔹 LawMate AI Assistant
+- AI-powered legal assistant  
+- Speech-to-text & document analysis  
+🔗 https://github.com/NihalMohan9905/LawMate-AI-Based-Desktop-Legal-Assistant-System
+
+---
+
+### 🔹 Legal Assistant Web App
+- Helps users find nearby professionals  
+- Built using JSP, HTML, CSS, JS, MySQL  
+🔗 https://github.com/NihalMohan9905/justice-guide-legal-assistant  
+
 
 ## 🌐 Connect with Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/nihalkasturi  
